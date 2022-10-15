@@ -1,3 +1,2 @@
-# Exp
-
-This a is TETRAKONTAKAITETRAGON conisting of 44 sides
+# EXP
+TETRAKONTAKAITETRAGON is a polygon conisting of 44 sides
