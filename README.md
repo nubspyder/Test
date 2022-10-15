@@ -1,7 +1,4 @@
-# Test
-#include<stdio.h>
-void main()
-{
-printf("Random");
+# Exp
+
 This a is TETRAKONTAKAITETRAGON
-}
+
