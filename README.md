@@ -1,3 +1,3 @@
 # Exp
 
-This a is TETRAKONTAKAITETRAGON comsisting of 44 sides
+This a is TETRAKONTAKAITETRAGON conisting of 44 sides
